@@ -14,11 +14,9 @@ $ git clone https://github.com/AllysonMcGrath/social-network-api.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
-To use this application, you need to install the dependencies with the following commands:
+To use this application, you need to install the dependencies with the following command:
 
 npm install<br/>
-npm install express<br/>
-npm install mongoose<br/>
 
 To test the api routes, run 'npm start' from the command line.
 
